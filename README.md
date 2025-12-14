@@ -1,27 +1,8 @@
-<<<<<<< HEAD
-# KJK-Final-Projek
-=======
-# KJK-Projek
->>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
+# KJK Final Project Kelompok-3_Kelas C
+---
 
-# Router Debian
-
-
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
+## Router Debian
 ### Firewall (Debian)
-
-
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
 Setup awal 
 
 ```
