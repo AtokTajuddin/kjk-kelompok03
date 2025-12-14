@@ -1,15 +1,27 @@
+<<<<<<< HEAD
 # KJK-Final-Projek
+=======
+# KJK-Projek
+>>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
 
 # Router Debian
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
 ### Firewall (Debian)
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
 Setup awal 
 
 ```
@@ -1393,6 +1405,7 @@ Semua masih normal dan masih bisa ping satu sama lain
 | **Default Policy**     | **Implicit Deny**. (Jika tidak ada aturan zone-pair, semua trafik diblokir).                             | **Implicit Deny** (biasanya). Harus ada aturan eksplisit untuk mengizinkan trafik.                            | Tergantung kebijakan admin, tapi standarnya: Internet -> DMZ (Allow), DMZ -> LAN (Block).                  |
 | **Contoh Konfigurasi** | `zone-pair security IN-TO-OUT source INSIDE destination OUTSIDE`                                         | `set zone-policy zone INSIDE from OUTSIDE firewall name WAN_IN`                                               | Subnet `192.168.8.0/24` (Lab/Server) yang terpisah dari `192.168.1.0/24` (User).                           |
 | **Analogi Satpam**     | **SOP Satpam:** "Siapapun yang jalan dari *Lobi* ke *Ruang Brankas*, periksa ID-nya."                    | **Buku Aturan:** "Untuk Zona *Lobi*, terapkan Aturan No. 5 jika ada orang masuk dari Jalan Raya."             | **Ruang Tunggu Tamu:** Orang luar boleh masuk sini, tapi dari sini tidak boleh masuk ke kamar tidur utama. |
+<<<<<<< HEAD
 
 
 
@@ -2126,3 +2139,5 @@ jika terdapat sebuah {IP\_ADDRESS}:1 -> maka ini artinya host atau node yang sed
 
 {IP\_ADDRESS}:0 -> Merupakan pesan Reply (ECHO Reply) di mana biasanya sebuah receiver atau node yang di ping merespon bahwasannya ia sedang online atau aktif , itu artinya aktivitas PING berhasil.
 
+=======
+>>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
