@@ -2119,6 +2119,3 @@ jika terdapat sebuah {IP\_ADDRESS}:1 -> maka ini artinya host atau node yang sed
 
 
 {IP\_ADDRESS}:0 -> Merupakan pesan Reply (ECHO Reply) di mana biasanya sebuah receiver atau node yang di ping merespon bahwasannya ia sedang online atau aktif , itu artinya aktivitas PING berhasil.
-
-=======
->>>>>>> 4086daf4dbd4eaac434cd8bec86c7582268b51e6
